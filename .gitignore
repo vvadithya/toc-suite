@@ -1,0 +1,13 @@
+# Binaries and compiled files
+a.out
+*.o
+*.exe
+
+# Outputs
+outputs/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
